@@ -5,11 +5,11 @@ Created a complete back-end for an ecommerce website providing **CRUD** operatio
 ## Technologies
 
 The following technologies have been used:
-- **[PHP]**
-- **[Laravel]**
-- **[MySQL]**
-- **[JavaScript]**
-- **[HTML]**
-- **[CSS]**
-- **[Bootstrap]**
-- **[Git]**
+- **PHP**
+- **Laravel**
+- **MySQL**
+- **JavaScript**
+- **HTML**
+- **CSS**
+- **Bootstrap**
+- **Git**
