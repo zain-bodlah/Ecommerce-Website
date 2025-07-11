@@ -7,6 +7,8 @@ Created a complete back-end for an ecommerce website providing **CRUD** operatio
 The following technologies have been used:
 - **PHP**
 - **Laravel**
+- **Blade**
+- **Livewire**
 - **MySQL**
 - **JavaScript**
 - **HTML**
